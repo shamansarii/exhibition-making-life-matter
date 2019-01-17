@@ -1,0 +1,62 @@
+h1 {
+	color: darkolivegreen; 
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+
+.para {
+	color: brown;
+	font-family: 'Niconne', cursive;
+	/*font-family: 'Dancing Script', cursive;*/
+	display: flex;
+	justify-content: flex-end;
+	font-size: 1em;
+}
+
+header {
+	color: white;
+	background-color: #21303b;
+	padding: 0.5em;
+	position: sticky;
+	top: 0px;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: yellow;
+}
+
+.grid-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.grid-container > div {
+  box-shadow: 1px 1px  1px 1px grey;
+  margin: 10px;
+}
+
+img{
+	height: 6em;
+	width: 10em;
+}
+
+p {
+	color: darkolivegreen;
+	text-align: center;
+}
+
+footer{
+	background-color: #21303b;
+	padding: 3em;
+}
+
+footer > img{
+	height: 3em;
+	width: 3em;
+}
