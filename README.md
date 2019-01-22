@@ -13,5 +13,5 @@ To make this application, we're going to need to cover the following topics:
   * HTML - The information represented on the page.
   * CSS - The style or look of the information
 
-##SCREENSHOOT
+### SCREENSHOOT
 
