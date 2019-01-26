@@ -1,17 +1,16 @@
 EXHIBITION-MAKING-LIFE-MATTER
 -----------------------------
-
 You can see website here: https://shamansarii.github.io/exhibition-making-life-matter/
 
-## WORKSHOP
+### APP FEATURES
 
-IDEA - Let's make a super simple exhibition making life matte appplication that runs on the web. You click in the new page and get the information of exhibition making life matte.
+1. The app is a soft exhibition . You click in the new page and get the information of exhibition making life matter.
 
 ### INGREDIENTS
 
-To make this application, we're going to need to cover the following topics:
-  * HTML - The information represented on the page.
-  * CSS - The style or look of the information
+The app MUST use:
+1. Bootstrap
+2. Google Fonts for fonts
+3. JQuery for Ajax
 
-### SCREENSHOOT
-
+### SCREENSHOT
